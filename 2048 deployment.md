@@ -71,8 +71,6 @@ eksctl create cluster --name demo-cluster --region us-east-1 --fargate
 2024-02-07 23:06:43 [✔]  EKS cluster "demo-cluster" in "us-east-1" region is ready
 ```
 After cluster creation 
-![Screenshot from 2024-02-07 23-06-07](https://github.com/mallikharjuna160003/2048-Game/assets/74324685/9e1abc33-2a8a-43b3-b284-9d744b16fd53)
-
 These are fields available after creating the EKS cluster
 
 - API server endpoint
